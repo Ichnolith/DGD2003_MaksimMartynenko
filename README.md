@@ -3,7 +3,7 @@ GAME DESIGN DOCUMENT
 1. Overview
 
  - Title: Malproksime
- - Genre: Walking Simulator
+ - Game genre: Walking Simulator
  - Summary: Short project based on the indi survival-horror game "Signalis" made by RoseEngine. 
 
 2. Details

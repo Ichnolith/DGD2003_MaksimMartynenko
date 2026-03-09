@@ -25,8 +25,8 @@ GAME DESIGN DOCUMENT
 
 4. Audio and visuals
 
- -The main goal is to recreate the atmosphere of the original game. 
+  -The main goal is to recreate the atmosphere of the original game. 
  
- -Visuals: Are most precisely described by "PS 1 graphics", which is quite popular nowadays. Low poly with lots of visual clutter, pixelized image and textures.
+  -Visuals: Are most precisely described by "PS 1 graphics", which is quite popular nowadays. Low poly with lots of visual clutter, pixelized image and textures.
  
- -Music: Industrial Ambient, Dark Ambient, Ambient.
+  -Music: Industrial Ambient, Dark Ambient, Ambient.
